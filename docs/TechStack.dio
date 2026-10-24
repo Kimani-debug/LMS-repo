@@ -1,0 +1,196 @@
+<mxfile host="65bd71144e">
+    <diagram id="trSEPX7RxL5BrkPPQb7S" name="Page-1">
+        <mxGraphModel dx="1056" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-1" parent="1" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" value="Assets" vertex="1">
+                    <mxGeometry height="300" width="640" x="130" y="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-2" parent="EDNfD30wvW52kk40C_cJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1">
+                    <mxGeometry height="61" width="640" as="geometry"/>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-3" parent="EDNfD30wvW52kk40C_cJ-2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=light-dark(#da1bc0, #121212);html=1;" value="Layer" vertex="1">
+                    <mxGeometry height="61" width="202" as="geometry">
+                        <mxRectangle height="61" width="202" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-4" parent="EDNfD30wvW52kk40C_cJ-2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=light-dark(#da1bc0, #121212);html=1;" value="Technology Chosen" vertex="1">
+                    <mxGeometry height="61" width="182" x="202" as="geometry">
+                        <mxRectangle height="61" width="182" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-5" parent="EDNfD30wvW52kk40C_cJ-2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=light-dark(#da1bc0, #121212);html=1;" value="Why this fits your project" vertex="1">
+                    <mxGeometry height="61" width="256" x="384" as="geometry">
+                        <mxRectangle height="61" width="256" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-6" parent="EDNfD30wvW52kk40C_cJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" value="" vertex="1">
+                    <mxGeometry height="60" width="640" y="61" as="geometry"/>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-7" parent="EDNfD30wvW52kk40C_cJ-6" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" value="Frontend / UI" vertex="1">
+                    <mxGeometry height="60" width="202" as="geometry">
+                        <mxRectangle height="60" width="202" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-8" parent="EDNfD30wvW52kk40C_cJ-6" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" value="ReactJS" vertex="1">
+                    <mxGeometry height="60" width="182" x="202" as="geometry">
+                        <mxRectangle height="60" width="182" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-9" parent="EDNfD30wvW52kk40C_cJ-6" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=left;whiteSpace=wrap;html=1;" value="I have a client/ server architecture where the ui page and services in the backend to communicate and this framework suits better" vertex="1">
+                    <mxGeometry height="60" width="256" x="384" as="geometry">
+                        <mxRectangle height="60" width="256" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-10" parent="EDNfD30wvW52kk40C_cJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" value="" vertex="1">
+                    <mxGeometry height="59" width="640" y="121" as="geometry"/>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-11" parent="EDNfD30wvW52kk40C_cJ-10" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" value="Backend / logic" vertex="1">
+                    <mxGeometry height="59" width="202" as="geometry">
+                        <mxRectangle height="59" width="202" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-12" parent="EDNfD30wvW52kk40C_cJ-10" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" value="Java, Spring boot" vertex="1">
+                    <mxGeometry height="59" width="182" x="202" as="geometry">
+                        <mxRectangle height="59" width="182" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-13" parent="EDNfD30wvW52kk40C_cJ-10" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;align=left;" value="Spring boot has multiple modules that can simply the development effort. Java supports object oriented programming which can help to follow the SOLID priniciples successfully&amp;nbsp;" vertex="1">
+                    <mxGeometry height="59" width="256" x="384" as="geometry">
+                        <mxRectangle height="59" width="256" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-14" parent="EDNfD30wvW52kk40C_cJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" value="" vertex="1">
+                    <mxGeometry height="61" width="640" y="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-15" parent="EDNfD30wvW52kk40C_cJ-14" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" value="Data storage" vertex="1">
+                    <mxGeometry height="61" width="202" as="geometry">
+                        <mxRectangle height="61" width="202" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-16" parent="EDNfD30wvW52kk40C_cJ-14" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" value="MySql&amp;nbsp;" vertex="1">
+                    <mxGeometry height="61" width="182" x="202" as="geometry">
+                        <mxRectangle height="61" width="182" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-17" parent="EDNfD30wvW52kk40C_cJ-14" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;whiteSpace=wrap;html=1;" value="Its a free open-source database and we would like to do the sql programming as we have a structured data to maintain" vertex="1">
+                    <mxGeometry height="61" width="256" x="384" as="geometry">
+                        <mxRectangle height="61" width="256" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-18" parent="EDNfD30wvW52kk40C_cJ-1" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" value="" vertex="1">
+                    <mxGeometry height="59" width="640" y="241" as="geometry"/>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-19" parent="EDNfD30wvW52kk40C_cJ-18" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" value="External services / API" vertex="1">
+                    <mxGeometry height="59" width="202" as="geometry">
+                        <mxRectangle height="59" width="202" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-20" parent="EDNfD30wvW52kk40C_cJ-18" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" value="AWS cloud" vertex="1">
+                    <mxGeometry height="59" width="182" x="202" as="geometry">
+                        <mxRectangle height="59" width="182" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-21" parent="EDNfD30wvW52kk40C_cJ-18" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;align=left;" value="I was thinking of hosting the application on AWS cloud. AWS supports the cloud computing" vertex="1">
+                    <mxGeometry height="59" width="256" x="384" as="geometry">
+                        <mxRectangle height="59" width="256" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-22" parent="1" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" value="Assets" vertex="1">
+                    <mxGeometry height="220" width="640" x="132" y="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-23" parent="EDNfD30wvW52kk40C_cJ-22" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1">
+                    <mxGeometry height="45" width="640" as="geometry"/>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-24" parent="EDNfD30wvW52kk40C_cJ-23" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" value="AI/ LLM (if any)" vertex="1">
+                    <mxGeometry height="45" width="212" as="geometry">
+                        <mxRectangle height="45" width="212" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-25" parent="EDNfD30wvW52kk40C_cJ-23" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" value="Co-pilot" vertex="1">
+                    <mxGeometry height="45" width="216" x="212" as="geometry">
+                        <mxRectangle height="45" width="216" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-26" parent="EDNfD30wvW52kk40C_cJ-23" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" value="It is easy to communicate and work&amp;nbsp;&lt;div&gt;with co-pilot chat&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="45" width="212" x="428" as="geometry">
+                        <mxRectangle height="45" width="212" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-27" parent="EDNfD30wvW52kk40C_cJ-22" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" value="" vertex="1">
+                    <mxGeometry height="44" width="640" y="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-28" parent="EDNfD30wvW52kk40C_cJ-27" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" value="Build &amp;amp; run" vertex="1">
+                    <mxGeometry height="44" width="212" as="geometry">
+                        <mxRectangle height="44" width="212" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-29" parent="EDNfD30wvW52kk40C_cJ-27" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" value="Docker, Harness, kubenetes &amp;amp; openshift" vertex="1">
+                    <mxGeometry height="44" width="216" x="212" as="geometry">
+                        <mxRectangle height="44" width="216" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-30" parent="EDNfD30wvW52kk40C_cJ-27" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=left;whiteSpace=wrap;html=1;" value="I have knowledge of working with these tools and these are advanced tools for cloud and are free to use as well" vertex="1">
+                    <mxGeometry height="44" width="212" x="428" as="geometry">
+                        <mxRectangle height="44" width="212" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-31" parent="EDNfD30wvW52kk40C_cJ-22" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" value="" vertex="1">
+                    <mxGeometry height="43" width="640" y="89" as="geometry"/>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-32" parent="EDNfD30wvW52kk40C_cJ-31" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" value="Testing framework" vertex="1">
+                    <mxGeometry height="43" width="212" as="geometry">
+                        <mxRectangle height="43" width="212" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-33" parent="EDNfD30wvW52kk40C_cJ-31" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" value="JUnit" vertex="1">
+                    <mxGeometry height="43" width="216" x="212" as="geometry">
+                        <mxRectangle height="43" width="216" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-34" parent="EDNfD30wvW52kk40C_cJ-31" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;align=left;" value="Junit is easy to develop the test cases for java code" vertex="1">
+                    <mxGeometry height="43" width="212" x="428" as="geometry">
+                        <mxRectangle height="43" width="212" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-35" parent="EDNfD30wvW52kk40C_cJ-22" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" value="" vertex="1">
+                    <mxGeometry height="45" width="640" y="132" as="geometry"/>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-36" parent="EDNfD30wvW52kk40C_cJ-35" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" value="" vertex="1">
+                    <mxGeometry height="45" width="212" as="geometry">
+                        <mxRectangle height="45" width="212" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-37" parent="EDNfD30wvW52kk40C_cJ-35" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" value="" vertex="1">
+                    <mxGeometry height="45" width="216" x="212" as="geometry">
+                        <mxRectangle height="45" width="216" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-38" parent="EDNfD30wvW52kk40C_cJ-35" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" value="" vertex="1">
+                    <mxGeometry height="45" width="212" x="428" as="geometry">
+                        <mxRectangle height="45" width="212" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-39" parent="EDNfD30wvW52kk40C_cJ-22" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" value="" vertex="1">
+                    <mxGeometry height="43" width="640" y="177" as="geometry"/>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-40" parent="EDNfD30wvW52kk40C_cJ-39" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" value="" vertex="1">
+                    <mxGeometry height="43" width="212" as="geometry">
+                        <mxRectangle height="43" width="212" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-41" parent="EDNfD30wvW52kk40C_cJ-39" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" value="" vertex="1">
+                    <mxGeometry height="43" width="216" x="212" as="geometry">
+                        <mxRectangle height="43" width="216" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="EDNfD30wvW52kk40C_cJ-42" parent="EDNfD30wvW52kk40C_cJ-39" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" value="" vertex="1">
+                    <mxGeometry height="43" width="212" x="428" as="geometry">
+                        <mxRectangle height="43" width="212" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
