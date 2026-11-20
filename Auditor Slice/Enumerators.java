@@ -9,4 +9,11 @@ public class Enumerators {
         USER
     }
 
+    enum Status {
+        NEW,
+        CLEARED,
+        CORRECTED,
+        ESCALATED
+    }
+
 }
